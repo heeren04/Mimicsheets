@@ -18,7 +18,7 @@ This project is a mimic of Google Sheets, built with TypeScript, Tailwind CSS, a
 ## Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone [repository_url]
+   git clone https://github.com/heeren04/Mimicsheets
    cd project
    ```
 
@@ -44,7 +44,8 @@ This project is a mimic of Google Sheets, built with TypeScript, Tailwind CSS, a
 - **`tailwind.config.js`**: Tailwind CSS configuration.
 ## Use formula 
 - ** =SUM(A1,C1) results A1+C1 only
-- ** Need more time to improve features
+- ** check other features also
+- ** Need more time to improve all features
 ## Contribution
 Feel free to fork the repository and submit pull requests for new features or bug fixes.
 
