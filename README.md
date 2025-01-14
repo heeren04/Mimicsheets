@@ -42,13 +42,10 @@ This project is a mimic of Google Sheets, built with TypeScript, Tailwind CSS, a
 - **`index.html`**: Entry point for the application.
 - **`package.json`**: Project dependencies and scripts.
 - **`tailwind.config.js`**: Tailwind CSS configuration.
-
+## Use formula 
+- ** =SUM(A1,C1) results A1+C1 only
+- ** Need more time to improve features
 ## Contribution
 Feel free to fork the repository and submit pull requests for new features or bug fixes.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
----
-
-For any issues or inquiries, please contact [your_email@example.com].
